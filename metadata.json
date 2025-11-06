@@ -1,0 +1,5 @@
+{
+  "name": "Retro Snake",
+  "description": "A classic 2D snake game with a retro aesthetic, built for mobile with intuitive touch controls. Eat the food, grow your snake, and avoid crashing into the walls or yourself!",
+  "requestFramePermissions": []
+}
